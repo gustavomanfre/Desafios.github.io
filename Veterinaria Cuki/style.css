@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700&family=MuseoModerno:wght@700&display=swap');
+*{
+    font-family: 'Mulish', sans-serif;
+    background-color: #edf7ff;
+}
+
+h1{
+    font-family: 'MuseoModerno', cursive;
+    color: #0a2ff1;
+    text-decoration: underline;
+    font-weight: bold;
+    
+}
+h2{
+    color:#0a2ff1;
+}
+
+h2:hover{
+    text-decoration: underline;
+}
+a:hover{
+    font-weight: bold;
+}
+
+.img-f{
+    width:30px ;
+}
+
+.img-s{
+    width: 50%;
+    height: auto;
+    margin-top: 10px;
+}
+
+strong:hover{
+    color: #0a2ff1;
+    text-decoration: underline;
+
+}
+section{
+    border: 2px ridge blue ;
+     margin-top: 10px;
+}
+
